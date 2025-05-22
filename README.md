@@ -2,7 +2,7 @@
 
 🎓 **Informatics Student** | 📊 **Data Automation Learner ** | 📱 **Mobile Dev Learner (Android)**
 
-I'm a student who's already applying real-world skills in data automation, database design, backend logic, and mobile development. I’ve handled **millions of real records**, built automated pipelines, and developed apps that connect frontend to backend, all while still in school. :D
+I'm a student who's trying to applyreal-world skills in data automation, database design, backend logic, and mobile development. I’ve handled **millions of real records**, built automated pipelines, and developed apps that connect frontend to backend, all while still in school. :D
 
 ---
 
@@ -33,10 +33,10 @@ I'm a student who's already applying real-world skills in data automation, datab
 
 ## 📌 Highlight Projects
 
-- 🔹 **Data Pipeline for IMSS Data**  
+- **Data Pipeline for IMSS Data**  
   Processed and transformed 350M+ records using Python and MySQL, producing filtered and aggregated tables for visual reporting in Power BI.
   
-- 🔹 **Kotlin + Firebase Mobile App**  
+- **Kotlin + Firebase Mobile App**  
   Android app with user registration, field validation, and data storage using Firebase Realtime DB.
 
 
